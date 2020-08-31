@@ -1,0 +1,26 @@
+body {
+background: rgb(40,194,225);
+}
+div.minecraft {
+margin-left: 30px;
+    margin-top: 30px;
+width:50%;
+    float:left;
+}
+img.bedrock {
+float:right;
+    margin-right: 50px;
+    margin-top: 60px;
+    width:486px;
+    height:550px;
+
+}
+img.survivalpic {
+width:10%;
+}
+img.hardcorepic {
+width:10%;
+}
+img.creativepic {
+width:10%;
+}
